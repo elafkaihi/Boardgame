@@ -13,7 +13,7 @@ Our CI/CD pipeline leverages a suite of powerful tools to automate the entire de
 - **Orchestration**: Kubernetes
 - **Monitoring**: Prometheus and Grafana
 
-![CI/CD Pipeline Architecture](CICD Architecture.png)
+![CI/CD Pipeline Architecture](CICD-Architecture.png)
 
 ## Phases
 
